@@ -1,0 +1,28 @@
+{
+  "name": "apigtesting",
+  "version": "0.0.1",
+  "description": "This is for testing the AWS API Gateway",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mlhamatma/apigtesting.git"
+  },
+  "keywords": [
+    "apig",
+    "aws",
+    "lambda"
+  ],
+  "author": "mlh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mlhamatma/apigtesting/issues"
+  },
+  "homepage": "https://github.com/mlhamatma/apigtesting#readme",
+  "dependencies": {
+    "aws": "0.0.3-2",
+    "fetch": "^1.1.0"
+  }
+}
